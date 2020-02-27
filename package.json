@@ -1,22 +1,22 @@
 
 {
-	  "name": "enovel1",
+	  "name": "novel",
 	    "version": "1.0.0",
-	      "description": "金庸五部小说介绍的电子书。",
+	      "description": "电子书。",
 	        "main": "index.js",
 		  "scripts": {
 			      "test": "echo \"Error: no test specified\" && exit 0"
 			        },
 				  "repository": {
 					      "type": "git",
-					          "url": "git+https://github.com/2334168774/ENOVEL1.git"
+					          "url": "git+https://github.com/liuyanyansun/novel.git"
 						    },
-						      "author": "2334168774",
+						      "author": "liuyanyansun",
 						        "license": "MIT",
 							  "bugs": {
-								      "url": "https://github.com/2334168774/ENOVEL1/issues"
+								      "url": "https://github.com/liuyanyansun/novel/issues"
 								        },
-									  "homepage": "https://github.com/2334168774/ENOVEL1#readme",
+									  "homepage": "https://github.com/liuyanyansun/novel#readme",
 									    "devDependencies": {
 										        "gitbook-cli": "^2.3.2"
 											  }
