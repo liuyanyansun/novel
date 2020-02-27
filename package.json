@@ -1,0 +1,23 @@
+
+{
+	  "name": "enovel1",
+	    "version": "1.0.0",
+	      "description": "金庸五部小说介绍的电子书。",
+	        "main": "index.js",
+		  "scripts": {
+			      "test": "echo \"Error: no test specified\" && exit 0"
+			        },
+				  "repository": {
+					      "type": "git",
+					          "url": "git+https://github.com/2334168774/ENOVEL1.git"
+						    },
+						      "author": "2334168774",
+						        "license": "MIT",
+							  "bugs": {
+								      "url": "https://github.com/2334168774/ENOVEL1/issues"
+								        },
+									  "homepage": "https://github.com/2334168774/ENOVEL1#readme",
+									    "devDependencies": {
+										        "gitbook-cli": "^2.3.2"
+											  }
+}
